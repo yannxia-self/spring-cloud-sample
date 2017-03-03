@@ -1,0 +1,4 @@
+rootProject.name = 'spring-cloud-netflix-sample'
+include 'spring-cloud-netflix-provider-sample'
+include 'spring-cloud-netflix-consumer-sample'
+
